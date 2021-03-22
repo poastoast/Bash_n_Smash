@@ -5,3 +5,6 @@ ignore the version numbers in the file name, just check the branches for the mos
 
 to install, take the front, back, and bottom screw off, put the guard on the front and slide the back part, coming in from the botom, and put the screws back on to secure!
 [photos will be added at some point to help understand]
+
+CHANGES:
+  - fixed model so the print doesn't have a weird bridging artifact
