@@ -7,4 +7,4 @@ to install, take the front, back, and bottom screw off, put the guard on the fro
 [photos will be added at some point to help understand]
 
 CHANGES:
-  - fixed model so the print doesn't have a weird bridging artifact
+  -2.1: fixed model so the print doesn't have a weird bridging artifact
