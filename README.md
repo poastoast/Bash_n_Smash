@@ -3,5 +3,5 @@ There's two versions, one regular and one "extra protection" that covers the who
 
 ignore the version numbers in the file name, just check the branches for the most recent releases
 
-to install, take the front, back, and bottom screw off, put the guard on the front and slide the back part, coming in from the botom, and put the screws back on to secure!
+to install, the forward, bottom, and rear screws (as when looking at the board wheels down) need to be removed, hook the front end first, and slide the back on. The front and rear screws need 15mm length screws to compensate the thickness of the guards, but the bottom scerw can stay the same when you reinstall it.
 [photos will be added at some point to help understand]
