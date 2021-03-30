@@ -8,6 +8,7 @@ to install, take the front, back, and bottom screw off, put the guard on the fro
 
 CHANGES:
   - 2.21: fixed problem with the "tail" not sticking to the bed due to insufficient contact area
-  - 2.2: fixed model so the print doesn't have a weird bridging artifact
+  - 2.2: redsigned motor protector section for slightly more tolerance; reinforced tail section
+  - 2.1: fixed model so the print doesn't have a weird bridging artifact
   
 
