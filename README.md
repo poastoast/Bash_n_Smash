@@ -6,6 +6,7 @@ ignore the version numbers in the file name, just check the branches for the mos
 to install, the forward, bottom, and rear screws (as when looking at the board wheels down) need to be removed, hook the front end first, and slide the back on. The front and rear screws need 15mm length screws to compensate the thickness of the guards, but the bottom screw can stay the same when you reinstall it.
 
 CHANGES:
+  - 2.22: increased rigidity of the tail by lengthening the overhang section [requires tree supports]
   - 2.21: fixed problem with the "tail" not sticking to the bed due to insufficient contact area
   - 2.2: redsigned motor protector section for slightly more tolerance; reinforced tail section
   - 2.1: fixed model so the print doesn't have a weird bridging artifact
